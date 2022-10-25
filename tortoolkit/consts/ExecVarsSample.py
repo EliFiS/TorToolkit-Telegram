@@ -5,20 +5,20 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "79d60e6b081d5ea6c3e7d81b4b6d2f28"
+        API_ID = 017152322
+        BOT_TOKEN = "5317484942:AAFPFcDg4YrQpYicIF7EFN_ce5rY014JBmE"
+        BASE_URL_OF_BOT = "http://t.me/elifis_leechbot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
-        OWNER_ID = 0
+        ALD_USR = [-1001891230333]
+        OWNER_ID = 593171886
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = False
+        GD_INDEX_URL = True
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
@@ -36,17 +36,17 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432"
+        DB_URI = "postgres://holhgiazbqbkzq:454857a3c13c858d0eb597be4de17b58433ed3bf829b2c0ce0bd460f42a1abcd@ec2-44-195-132-31.compute-1.amazonaws.com:5432/dfeflm78slmd8a"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
         
         # MEGA CONFIG
-        MEGA_ENABLE = False
-        MEGA_API = ""
-        MEGA_UNAME = None
-        MEGA_PASS = None
-
+        MEGA_ENABLE = True
+        MEGA_API = "3sEGVbzK"
+        MEGA_UNAME = elifisifile@gmail.com
+        MEGA_PASS = eliFIS7!
+        
         # The base direcory to which the files will be upload if using RCLONE
         RCLONE_BASE_DIR = "/"
 
