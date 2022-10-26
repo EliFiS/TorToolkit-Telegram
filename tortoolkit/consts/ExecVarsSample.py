@@ -6,7 +6,7 @@ except:
         IS_VPS = False
         
         API_HASH = "79d60e6b081d5ea6c3e7d81b4b6d2f28"
-        API_ID = 017152322
+        API_ID = 17152322
         BOT_TOKEN = "5317484942:AAFPFcDg4YrQpYicIF7EFN_ce5rY014JBmE"
         BASE_URL_OF_BOT = "http://t.me/elifis_leechbot"
 
